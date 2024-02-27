@@ -1,8 +1,8 @@
-### Hi, I'm HOANG HIEP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [THÀNH IT][website] = Software Engineer + Youtuber 🌻  
+### Hi, I'm HOANG HIEP <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">🌻  
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
+- 💪 2024 Goals: Learning many things in Python
 - ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
 
 ### :zap: GitHub Stats
@@ -23,23 +23,12 @@
 
 ---
 
-### 📺 YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [NGUỒN GỐC LOGO CỦA APPLE CÓ THỂ BẠN CHƯA BIẾT ? #computer #laptrinh #thanhit #apple  #shorts](https://www.youtube.com/watch?v=vgrsHWL9USw)
-- [PHẦN MỀM LÀM VIDEO NHƯ KTTV, WEB5NGAY](https://www.youtube.com/watch?v=0pNhHTI3npI)
-- [CÁCH KHÔI PHỤC TÀI KHOẢN STEAM BỊ ĐỔI EMAIL](https://www.youtube.com/watch?v=xD8Dwdp09rM)
-- [THƯ VIỆN PYTHON #4 - VALIDATE, POSTLOAD, PRELOAD THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=0Ytzn--DJV4)
-- [THƯ VIỆN PYTHON #4 - VALIDATE DATA VỚI THƯ VIỆN MARSHMALLOW](https://www.youtube.com/watch?v=cY-2HiNuGfc)
-<!-- YOUTUBE:END -->
-
----
 
 ### 📫 Contact me via:
-- EMAIL: lathanhmta@gmail.com
-- YOTUBE: THÀNH IT
+- EMAIL: hthko2003@gmail.com
 
-[website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A- 👋 Hi, I’m @hiephoangt
+👋 Hi, I’m @hiephoangt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
